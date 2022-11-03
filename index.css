@@ -1,6 +1,7 @@
 body{
   background-image: url(./images/pexels-erik-mclean-9268740.jpg);
   background-size: cover;
+  background-repeat: no-repeat;
 }
 button{
     border-color: black;
